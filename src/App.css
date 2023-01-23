@@ -1,0 +1,32 @@
+.input {
+  margin: 10px auto;
+  width: 200px;
+  height: 30px;
+}
+
+.app {
+  max-width: 1170px;
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.error-message {
+  color:crimson;
+  margin: auto;
+}
+
+.facts li {
+  margin: 20px 0 10px;
+}
+
+.loader {
+  text-align: center;
+}
+
+.loading-skeleton {
+   width: 70% !important;
+   height: 25px;
+   margin: 10px -20px 10px 28px;
+}
