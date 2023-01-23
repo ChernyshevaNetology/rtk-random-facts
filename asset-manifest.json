@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rtk-random-facts/static/css/main.3702951c.css",
+    "main.js": "/rtk-random-facts/static/js/main.f8c94396.js",
+    "index.html": "/rtk-random-facts/index.html",
+    "main.3702951c.css.map": "/rtk-random-facts/static/css/main.3702951c.css.map",
+    "main.f8c94396.js.map": "/rtk-random-facts/static/js/main.f8c94396.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3702951c.css",
+    "static/js/main.f8c94396.js"
+  ]
+}
